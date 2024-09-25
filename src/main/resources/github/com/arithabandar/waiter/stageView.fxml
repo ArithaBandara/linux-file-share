@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="anchorPane" style="-fx-background-color: #c79fd5;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="github.com.arithabandar.waiter.control.StageViewControl">
+    <BorderPane fx:id="pane" layoutX="4.0">
+        <center>
+            <TableView fx:id="table" style="-fx-background-radius: 10; -fx-border-radius: 10; -fx-padding: 5;" BorderPane.alignment="CENTER">
+                <opaqueInsets>
+                    <Insets />
+                </opaqueInsets>
+                <BorderPane.margin>
+                    <Insets bottom="30.0" left="10.0" right="10.0" top="20.0" />
+                </BorderPane.margin>
+                <columnResizePolicy>
+                    <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                </columnResizePolicy>
+            </TableView>
+        </center>
+    </BorderPane>
+</AnchorPane>
