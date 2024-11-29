@@ -1,12 +1,12 @@
-File Sharing Application
+# Waiter the File Sharing Application
 
 This is a simple JavaFX application that enables file sharing over the same network using socket connections. I created this project out of boredom, and it's designed to run on Linux systems.
-Features
 
-    - Share files within the same network.
-    - Lightweight and easy to use.
-    - Built with JavaFX for a simple graphical interface.
-    - Includes a jlink-generated runtime for direct execution on Linux.
+## Features
+- Share files within the same network.
+- Lightweight and easy to use.
+- Built with JavaFX for a simple graphical interface.
+- Includes a jlink-generated runtime for direct execution on Linux.
 
 Prerequisites
 
