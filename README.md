@@ -35,8 +35,7 @@ Notes
 - Make sure to unzip src/main/resources/img.zip File
 
 <div style="display: flex;">
-<img src="https://github.com/ArithaBandara/Green-House-application/blob/main/application_/welcome.jpg" alt="Greenhouse" width="250" />
-<img src="https://github.com/ArithaBandara/Green-House-application/blob/main/application_/home.jpg" alt="Greenhouse" width="250" />
-<img src="https://github.com/ArithaBandara/Green-House-application/blob/main/application_/dashbord.jpg" alt="Greenhouse" width="250" />
-<img src="https://github.com/ArithaBandara/Green-House-application/blob/main/application_/weather.jpg" alt="Greenhouse" width="250" />
+<img src="https://github.com/ArithaBandara/linux-file-share/blob/main/src/main/account.png" alt="linux-file-share" width="250" />
+<img src="https://github.com/ArithaBandara/linux-file-share/blob/main/src/main/dash.png" alt="linux-file-share" width="250" />
+<img src="https://github.com/ArithaBandara/linux-file-share/blob/main/src/main/prosess.png" alt="linux-file-share" width="250" />
 </div>
